@@ -15,7 +15,7 @@
       <a class="nav-link" href="/about" use:link>About</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="http://github.com/cpro95/search-my-movie">
+      <a class="nav-link" href="https://github.com/cpro95/search-my-movie-svelte">
         Github
       </a>
     </li>
